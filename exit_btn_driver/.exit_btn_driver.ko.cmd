@@ -1,0 +1,1 @@
+cmd_/root/raspberry/app/Term/exit_btn_driver/exit_btn_driver.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/raspberry/app/Term/exit_btn_driver/exit_btn_driver.ko /root/raspberry/app/Term/exit_btn_driver/exit_btn_driver.o /root/raspberry/app/Term/exit_btn_driver/exit_btn_driver.mod.o
